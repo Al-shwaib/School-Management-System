@@ -1,5 +1,9 @@
 # School Management System (Laravel 9)
 
+[![GitHub stars](https://img.shields.io/github/stars/Al-shwaib/School-Management-System?style=social)](https://github.com/Al-shwaib/School-Management-System/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/Al-shwaib/School-Management-System)](https://github.com/Al-shwaib/School-Management-System/commits/main)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Al-shwaib/School-Management-System/actions)
+
 ![Project Banner](images/banner.png)
 
 A modern, robust School Management System built with **Laravel 9**. This platform streamlines school operations, including student management, academic records, question banks, departments, and more — all via an intuitive, responsive dashboard.
