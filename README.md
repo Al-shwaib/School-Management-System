@@ -13,7 +13,6 @@ A modern, robust School Management System built with **Laravel 9**. This platfor
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Tech Stack](#tech-stack)
-- [Contributing](#contributing)
 
 ---
 
@@ -132,12 +131,6 @@ school_sm_laravel9/
 - **Authentication:** Laravel Breeze 
 - **Other Tools:** DataTables, FontAwesome, SweetAlert
 - **Languages:** Arabic (RTL), English (LTR)
-
----
-
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
